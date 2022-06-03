@@ -1,0 +1,25 @@
+div {
+
+    background-color: rgb(231, 192, 229);
+    border: 2px solid pink;
+    border-radius: 40%;
+    text-align: center;
+    margin-top:5rem;
+
+}
+
+h1 {
+    color: #863be8;
+}
+
+h2 {
+    color: rgb(243, 38, 212);
+}
+
+h3 {
+    color: hsl(205, 90%, 55%);
+}
+
+h4 {
+    color: orange;
+}
